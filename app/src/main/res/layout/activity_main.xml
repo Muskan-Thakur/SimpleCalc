@@ -31,6 +31,7 @@
         android:textAlignment="textEnd"
         android:layout_above="@id/buttons_layout"
         android:layout_margin="16dp"
+        android:textColor="@color/black"
 
         >
 
